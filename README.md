@@ -22,9 +22,11 @@ The output is strictly formatted using a **Pydantic schema**, parsed with LangCh
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
-    ```bash
+
+    
     git clone https://github.com/Ankita-Codee/LangChain-App-Product-Info-Extractor
     cd LangChain-App-Product-Info-Extractor
+    
 
 ### 2. Create and Activate a Virtual Environment
     ```bash
